@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Photon Unity Networking/Demos/DemoChangeOwner/DemoOwnershipGui.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Launcher.cs" Line="70" Column="68" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="131" Column="4" />
+      <File FileName="Assets/Photon Unity Networking/Demos/PunBasics-Tutorial/Scripts/GameManager.cs" Line="171" Column="2" NotebookId="1" />
+      <File FileName="Assets/Photon Unity Networking/Demos/DemoChangeOwner/ClickAndDrag.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Photon Unity Networking/Demos/DemoChangeOwner/DemoOwnershipGui.cs" Line="16" Column="35" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
