@@ -5,16 +5,20 @@ using UnityEngine;
 public class SelectObjectScript : MonoBehaviour {
 
     float delta = 0.05f;
-    private float yaw = Input.GetAxis("Horizontal");
-    private float pitch = Input.GetAxis("Vertical");
+//    private float yaw = Input.GetAxis("Horizontal");
+//    private float pitch = Input.GetAxis("Vertical");
     private float speedH = 3.0f;
     private float speedV = 3.0f;
+	private float yaw;
+	private float pitch;
 
     private Rigidbody selected;
     private Color origColor;
 
 	// Use this for initialization
 	void Start () {
+		yaw = Input.GetAxis("Horizontal");
+		pitch = Input.GetAxis("Vertical");
     }
 
     // Update is called once per frame
